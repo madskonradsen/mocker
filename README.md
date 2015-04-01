@@ -1,4 +1,4 @@
-# Mocker
+# Mocker [![Build Status](https://travis-ci.org/madskonradsen/mocker.svg?branch=master)](https://travis-ci.org/madskonradsen/mocker)
 
 Mocker is a fake REST API written using AngularJS and C# .NET WebAPI.
 It's currently under development, and so far the frontend is done. Check out the progress at:
